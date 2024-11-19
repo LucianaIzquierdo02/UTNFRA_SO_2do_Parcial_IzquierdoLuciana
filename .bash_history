@@ -256,3 +256,10 @@ git branch
 ls -l
 git
 git status
+git add .
+git commit -m "ultimo push"
+git push origin master
+git push origin main
+git branch
+git push origin master --force
+git remote add origin https://github.com/LucianaIzquierdo02/UTNFRA_SO_2do_Parcial_IzquierdoLuciana.git
